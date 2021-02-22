@@ -1,0 +1,38 @@
+{
+  // See http://go.microsoft.com/fwlink/?LinkId=827846
+  // for the documentation about the extensions.json format
+  "recommendations": [
+    "burkeholland.simple-react-snippets",
+    "ChakrounAnas.turbo-console-log",
+    "CoenraadS.bracket-pair-colorizer-2",
+    "dbaeumer.vscode-eslint",
+    "dsznajder.es7-react-js-snippets",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "flowtype.flow-for-vscode",
+    "foam.foam-vscode",
+    "formulahendry.code-runner",
+    "GitHub.vscode-pull-request-github",
+    "GraphQL.vscode-graphql",
+    "jpoissonnier.vscode-styled-components",
+    "kisstkondoros.vscode-codemetrics",
+    "kumar-harsh.graphql-for-vscode",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-toolsai.jupyter",
+    "ms-vscode.cpptools",
+    "ms-vsliveshare.vsliveshare",
+    "msjsdiag.vscode-react-native",
+    "naumovs.color-highlight",
+    "oderwat.indent-rainbow",
+    "PKief.material-icon-theme",
+    "PKief.material-product-icons",
+    "ritwickdey.LiveServer",
+    "shd101wyy.markdown-preview-enhanced",
+    "steoates.autoimport",
+    "stkb.rewrap",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "whizkydee.material-palenight-theme",
+    "wix.vscode-import-cost"
+  ]
+}
